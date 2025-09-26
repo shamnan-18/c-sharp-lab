@@ -1,0 +1,27 @@
+using System;
+using System.IO;
+
+namespace ID_Stream
+{
+    class ID_Demo
+    {
+        static void Main(string[] args)
+        {
+            File.WriteAllText("example.txt", "Hello, World! \nthis is second line");
+
+            string read = File.ReadAllText("example.txt");
+            Console.WriteLine("Reading with File.ReadAllText:");
+            Console.WriteLine(read);
+
+            Console.WriteLine("\nReading line-by-line with StreamReader:");
+            using (StreamReader reader = new StreamReader("example.txt"))
+            {
+                string line;
+                while ((line = reader.ReadLine()) != null)
+                {
+                    Console.WriteLine(line);
+                }
+            }
+        }
+    }
+}
