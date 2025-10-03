@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\bin\Debug\net8.0\monthly_EMI_program.exe
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\bin\Debug\net8.0\monthly_EMI_program.deps.json
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\bin\Debug\net8.0\monthly_EMI_program.runtimeconfig.json
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\bin\Debug\net8.0\monthly_EMI_program.dll
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\bin\Debug\net8.0\monthly_EMI_program.pdb
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\monthly_EMI_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\monthly_EMI_program.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\monthly_EMI_program.AssemblyInfo.cs
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\monthly_EMI_program.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\monthly_EMI_program.dll
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\refint\monthly_EMI_program.dll
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\monthly_EMI_program.pdb
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\monthly_EMI_program.genruntimeconfig.cache
+C:\Users\Student\Desktop\sham\monthly_EMI_program\monthly_EMI_program\obj\Debug\net8.0\ref\monthly_EMI_program.dll
