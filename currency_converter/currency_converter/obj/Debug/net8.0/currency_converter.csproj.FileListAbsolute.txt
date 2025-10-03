@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\bin\Debug\net8.0\currency_converter.exe
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\bin\Debug\net8.0\currency_converter.deps.json
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\bin\Debug\net8.0\currency_converter.runtimeconfig.json
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\bin\Debug\net8.0\currency_converter.dll
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\bin\Debug\net8.0\currency_converter.pdb
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\currency_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\currency_converter.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\currency_converter.AssemblyInfo.cs
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\currency_converter.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\currency_converter.dll
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\refint\currency_converter.dll
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\currency_converter.pdb
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\currency_converter.genruntimeconfig.cache
+C:\Users\Student\Desktop\sham\currency_converter\currency_converter\obj\Debug\net8.0\ref\currency_converter.dll
