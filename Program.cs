@@ -1,66 +1,48 @@
 ﻿using System;
-using System.Xml.Serialization;
 
-namespace sub
+class Stack
 {
-    class Shape
+    int[] stack = new int[10];
+    int top = -1;
+    public void Push(int value)
     {
-        public virtual void Draw()
+        if (top == stack.Length - 1)
         {
-            Console.WriteLine("Drawing a Shape");
+            Console.WriteLine("Stack OverFlow");
         }
-          public virtual void Erase()
+        else
         {
-            Console.WriteLine("Erasing a Shape");
-        }  
-    }
-    class Circle : Shape
-    {
-        public override void Draw()
-        {
-            Console.WriteLine("Drawing a circle");
-        }
-        public override void Erase()
-        {
-            Console.WriteLine("Erasing a circle");
-        }
+            stack[++top] = value;
+            Console.WriteLine(value + " Pushed into stack ");
 
-    }
-    class Triangle : Shape
-    {
-        public override void Draw()
-        {
-            Console.WriteLine("Drawing a triangle");
-        }
-        public override void Erase()
-        {
-            Console.WriteLine("Erasing a Triangle");
         }
     }
-    class Square : Shape
+    public void Pop()
     {
-        public override void Draw()
+        if(top == -1)
         {
-            Console.WriteLine("Drawing a Square");
+            Console.WriteLine("Stack UnderFlow!");
         }
-        public override void Erase()
+        else
         {
-            Console.WriteLine("Erasing a Square");
-        }
-
-    }
-    class main
-    {
-        public static void Main(string[] args)
-        {
-            Shape[] shape = { new Circle(), new Triangle(), new Square() };
-
-            foreach (Shape s in shape)
+            Console.WriteLine("Stack Elements");
+            for(int i = top; i >= 0; i--)
             {
-                s.Draw();
-                s.Erase();
+                Console.WriteLine("Stack popped: "+stack[i]);
             }
         }
     }
+}
 
+class Program
+{
+    static void Main()
+    {
+        Stack s = new Stack();
+        s.Push(10);
+        s.Push(20);
+        s.Push(30);
+        s.Pop();
+
+    }
 }
